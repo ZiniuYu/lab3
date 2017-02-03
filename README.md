@@ -1,6 +1,6 @@
 My name: Ziniu Yu
 
-My photo ![me](\image\me.png)
+My photo ![me](\image\me.jpg)
 
 My graduating year: 2019
 
